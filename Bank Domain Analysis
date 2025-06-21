@@ -1,0 +1,33 @@
+Banking Domain Data Analytics Project
+This project focuses on performing end-to-end data analysis for the banking domain using real-world datasets. It covers data extraction, cleaning, exploration, SQL queries, visualization, and business insight generation. Tools used include MySQL, Python (Jupyter Notebook), Excel, and Power BI.
+
+Tools & Technologies
+Python: pandas, matplotlib, seaborn (for EDA and data wrangling)
+
+MySQL: SQL queries for KPI calculation and segmentation
+
+Excel: Initial data formatting and inspection
+
+Power BI: Interactive dashboards and business reporting
+
+Key Objectives
+Analyze customer behavior related to deposits, loans, and transactions
+
+Identify high-risk customers and churn patterns
+
+Visualize financial KPIs and branch-wise performance metrics
+
+Project Highlights
+Cleaned and merged customer, transaction, and loan datasets
+
+Performed SQL-based analysis to extract metrics like average balance, credit utilization, and delinquency rate
+
+Built a Power BI dashboard with filters, KPI cards, and visuals (bar, line, pie charts)
+
+Derived insights: ~36% customers were flagged as high-risk; Tier 2 branches showed higher default rates
+
+Business Outcomes
+Supported data-driven decision making for customer segmentation and targeted marketing
+
+Helped optimize credit strategies and improve customer retention
+
